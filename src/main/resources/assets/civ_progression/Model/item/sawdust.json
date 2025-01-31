@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "Layer0": "civ_progression.item/sawdust"
+  }
+}
